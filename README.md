@@ -17,7 +17,7 @@ Na maioria das vezes, você só precisa da **senha mais forte possível**. Este 
 
 ---
 
-## 💻 Como Rodar (Pydroid 3/Android)
+## 💻 Como Rodar (Python/Pydroid3/Android)
 
 1.  **Copie o Código:** Copie o código Python completo do arquivo `main.py` (ou `password_generator.py`) deste repositório.
 2.  **Abra o Pydroid 3:** Cole o código em um novo arquivo no aplicativo Pydroid 3 no seu dispositivo Android.
@@ -44,7 +44,7 @@ O programa utiliza a função `gerar_senha_fixa()` para aplicar a seguinte confi
 
 ---
 
-## ☕ Apoie a Fonte / Contribua
+## ☕ Apoie a Fonte/Criador/ Contribua
 
 Este projeto foi criado como uma ferramenta útil e simples. Seu apoio ajuda a manter a segurança do código e incentiva o desenvolvimento de **novas ferramentas úteis** para a comunidade Python/Android.
 
