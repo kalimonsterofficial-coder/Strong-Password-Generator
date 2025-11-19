@@ -10,25 +10,39 @@ Este é um Gerador de Senhas Python focado em simplicidade e segurança. Criado 
 
 Na maioria das vezes, você só precisa da **senha mais forte possível**. Este script garante isso de forma eficiente:
 
-* **16 Caracteres Fixos:** O padrão ouro para segurança moderna, aceito em quase todas as plataformas.
-* **Alta Entropia Garantida:** A senha sempre possui um mínimo de 4 letras minúsculas, 4 maiúsculas, 4 números e 4 símbolos, garantindo a complexidade.
-* **Criptograficamente Seguro:** Utiliza a biblioteca nativa **`secrets`** do Python (ideal para fins criptográficos), e não a biblioteca `random`.
-* **Fácil de Usar:** Basta rodar e a senha é gerada em segundos!
+* **16 Caracteres Fixos:** O padrão ouro para segurança moderna, aceito em quase todas as plataformas online.
+* **Alta Entropia Garantida:** A senha sempre possui um mínimo de 4 letras minúsculas, 4 maiúsculas, 4 números e 4 símbolos.
+* **Criptograficamente Seguro:** Utiliza a biblioteca nativa **`secrets`** do Python, garantindo números aleatórios seguros.
+* **Fácil de Usar:** Basta rodar o script e a senha é gerada em segundos!
 
 ---
 
-## 💻 Como Rodar (Python/Pydroid3/Android)
+## 💻 Como Rodar (Pydroid 3/Android)
 
-1.  **Copie o Código:** Copie o código Python completo do arquivo `main.py` (ou `password_generator.py`) deste repositório.
+1.  **Copie o Código:** Copie o código Python completo do arquivo `strong_password_generator.py` (ou `main.py`) deste repositório.
 2.  **Abra o Pydroid 3:** Cole o código em um novo arquivo no aplicativo Pydroid 3 no seu dispositivo Android.
 3.  **Execute:** Pressione o botão **Run (►)**.
-4.  **Gere:** Digite `S` ou pressione `Enter` na linha de comando para gerar sua nova senha forte.
-
-
+4.  **Gere:** Digite `S` ou pressione `Enter` na linha de comando para gerar sua senha forte.
 
 ---
 
-## ⚙️ Especificações Técnicas (Código Aberto)
+## ☕ Apoie a Fonte (Desenvolvimento e Manutenção)
+
+Este projeto é mantido por mim, a **fonte**, para garantir que a comunidade tenha acesso a ferramentas de segurança simples e eficazes.
+
+Se esta ferramenta foi útil para você ou melhorou sua segurança online, considere apoiar o desenvolvimento e a manutenção com uma doação via Pix.
+
+Sua ajuda financia a criação de mais utilitários Python e garante a segurança contínua deste código.
+
+### 🔑 Doação Direta via PIX
+
+| Chave PIX | Tipo de Chave |
+| :--- | :--- |
+| **[SUA CHAVE PIX AQUI]** | [Ex: E-mail, CPF, CNPJ ou Aleatória] |
+
+---
+
+## ⚙️ Especificações Técnicas
 
 O programa utiliza a função `gerar_senha_fixa()` para aplicar a seguinte configuração de segurança por padrão:
 
@@ -40,26 +54,4 @@ O programa utiliza a função `gerar_senha_fixa()` para aplicar a seguinte confi
 | **Números (Mínimo)** | 4 |
 | **Símbolos (Mínimo)** | 4 |
 
-> Este código é fornecido sob a Licença MIT, garantindo que você possa inspecionar cada linha para verificar a segurança.
-
----
-
-## ☕ Apoie a Fonte/Criador/ Contribua
-
-Este projeto foi criado como uma ferramenta útil e simples. Seu apoio ajuda a manter a segurança do código e incentiva o desenvolvimento de **novas ferramentas úteis** para a comunidade Python/Android.
-
-Se esta ferramenta economizou seu tempo e melhorou sua segurança:
-
-| Plataforma | Link |
-| :--- | :--- |
-| **GitHub Sponsors** | [Link para o seu perfil de patrocinador do GitHub] |
-| **Buy Me a Coffee** | [Link para o seu link 'Buy Me a Coffee'] |
-| **Pix (Se for aplicar no Brasil)** | [Sua chave Pix] |
-
-Agradeço imensamente o seu suporte!
-
----
-
-## 📜 Licença
-
-Este projeto está licenciado sob a **Licença MIT** (veja o arquivo `LICENSE` para detalhes).
+Este código é fornecido sob a **Licença MIT** (veja o arquivo `LICENSE` para detalhes).
