@@ -17,7 +17,7 @@ Na maioria das vezes, você só precisa da **senha mais forte possível**. Este 
 
 ---
 
-## 💻 Como Rodar (Pydroid 3/Android)
+## 💻 Como Rodar (Pydroid 3/Android/PC)
 
 1.  **Copie o Código:** Copie o código Python completo do arquivo `.py` deste repositório.
 2.  **Abra o Pydroid 3:** Cole o código em um novo arquivo no aplicativo Pydroid 3 no seu dispositivo Android.
