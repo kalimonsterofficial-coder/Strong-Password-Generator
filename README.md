@@ -26,15 +26,17 @@ Na maioria das vezes, você só precisa da **senha mais forte possível**. Este 
 
 ---
 
-## ☕ Apoie a Fonte (Chave Pix)
+## ☕ Apoie a Fonte (Doações em Criptomoedas)
 
 Este projeto foi criado por uma **fonte** independente para oferecer uma ferramenta útil e segura à comunidade.
 
-Se o seu tempo e segurança foram valorizados por este gerador, você pode apoiar o desenvolvimento e manutenção do projeto com uma doação via Pix.
+Se o seu tempo e segurança foram valorizados por este gerador, você pode apoiar o desenvolvimento e manutenção do projeto com uma doação em criptomoedas.
 
-| Método de Apoio | Chave Pix |
+| Moeda | Endereço para Doação |
 | :--- | :--- |
-| **Doação (PIX)** | **`kalimonsterofficial@gmail.com`** |
+| **Bitcoin (BTC)** | `bc1qhzv6av7fs4vj3a6p8gm9vzqg26jukdqj7rym8j` |
+| **Litecoin (LTC)** | `ltc1q6sene52yn8w7e2vgrn2qw9sff207q3tyvve0md` |
+| **Ethereum (ETH)** | `0xA9b85C07623AAc66a6bAD4Ad7c6A51D5a44A785d` |
 
 Seu apoio é o que torna possível o desenvolvimento de mais ferramentas úteis e a evolução deste projeto. Agradecemos imensamente!
 
@@ -44,4 +46,3 @@ Seu apoio é o que torna possível o desenvolvimento de mais ferramentas úteis 
 
 * **Tecnologia:** Python 3, Módulos `secrets`, `string`, `random`.
 * **Licença:** Este projeto está licenciado sob a **Licença MIT** (veja o arquivo `LICENSE` para detalhes).
-
